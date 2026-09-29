@@ -1,3 +1,5 @@
+//Merge Sort
+
 #include <stdio.h>
 #include <time.h>
 
